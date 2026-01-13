@@ -217,11 +217,9 @@ Plate2Profit/
 * Add data quality checks
 * Real-time ingestion support
 
----
 
-## 👨‍💻 Author
 
-**Plate2Profit** is designed as a **portfolio & interview-ready project** showcasing modern data engineering practices using Snowflake.
+
 
 ---
 
